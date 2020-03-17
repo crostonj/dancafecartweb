@@ -6,6 +6,7 @@ import { AppComponent } from './app.component';
 import { CartLinkComponent } from './CartLink/CartLink.component';
 import { RouterModule } from '@angular/router';
 import { CartHomeModule } from './CartHomeModule/CartHomeModule.module';
+import { PageNotFoundComponent } from './page-not-found/page-not-found.component';
 
 @NgModule({
    declarations: [
